@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or engineering designs, please cite it as below."
+title: "hydroalpha: Open-Source Python Engine for Catchment Runoff Coefficient Modeling and Remote Sensing Calibration"
+version: 1.0.0
+date-released: 2025-02-18
+authors:
+  - family-names: "Lako"
+    given-names: "Holden"
+    orcid: "https://orcid.org/0009-0009-3356-3612"
+    affiliation: "Faculty of Civil Engineering, Polytechnic University of Tirana (UPT)"
+    email: "holden.lako@fin.edu.al"
+license: MIT
+repository-code: "https://github.com/holdenlako/hydroalpha"
+identifiers:
+  - type: other
+    value: "ISNI: 0000 0005 3183 3950"
+    description: "International Standard Name Identifier (ISO 27729)"
+keywords:
+  - "hydrotechnical engineering"
+  - "runoff coefficient"
+  - "hydrology"
+  - "remote sensing"
+  - "sentinel-2"
