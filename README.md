@@ -1,5 +1,6 @@
 # hydroalpha: Computational Hydrotechnical Engineering Engine
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867165.svg)](https://doi.org/10.5281/zenodo.23867165)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ISNI](https://img.shields.io/badge/ISNI-0000_0005_3183_3950-blue.svg)](https://isni.org/isni/0000000531833950)
 [![Harvard Dataverse](https://img.shields.io/badge/Harvard_Dataverse-10.7910%2FDVN%2FBVXAZZ-orange.svg)](https://doi.org/10.7910/DVN/BVXAZZ)
@@ -57,5 +58,5 @@ print(f"Satellite Calibrated Alpha: {alpha_remote:.3f}")
 If this software is utilized in hydrotechnical infrastructure designs, hydrological models, or flood mitigation research, please cite it as:
 
 ```text
-Lako, Holden. (2025). hydroalpha: Computational Hydrotechnical Engine for Runoff Modeling. CERN Zenodo. https://github.com/holdenlako/hydroalpha
+Lako, Holden. (2025). hydroalpha: Computational Hydrotechnical Engine for Runoff Modeling (Version v1.0.0). CERN Zenodo. https://doi.org/10.5281/zenodo.23867165
 ```
