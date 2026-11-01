@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hydroalpha"
+version = "1.0.0"
+authors = [
+  { name="Ing. Holden Lako", email="holden.lako@fin.edu.al" },
+]
+description = "Computational Hydrotechnical Library for Runoff Coefficient (alpha) Dynamic Modeling, Slope Correction, and Satellite Multispectral Index Calibration."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Hydrology",
+    "Topic :: Scientific/Engineering :: GIS",
+]
+dependencies = [
+    "numpy>=1.20.0",
+]
+
+[project.urls]
+"Homepage" = "https://holdenlako.github.io"
+"Repository" = "https://github.com/holdenlako/hydroalpha"
+"Data Archive" = "https://doi.org/10.7910/DVN/BVXAZZ"
